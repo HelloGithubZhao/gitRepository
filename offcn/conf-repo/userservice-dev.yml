@@ -16,3 +16,5 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8888/eureka
+      
+userservice: userService_8001_update
